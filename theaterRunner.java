@@ -4,6 +4,7 @@ import org.code.media.*;
 public class TheaterRunner {
   public static void main(String[] args) {
 
+//sets structure for visulization 
     // 2D Array
     String[][] cultureText = {
       {"Flag", "Clothing"},
